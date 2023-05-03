@@ -1,7 +1,7 @@
 <!--header-->
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=Cylinder&text=Hong%20Tae%20Woong&color=yellow)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&text=Hong%20Tae%20Woong&color=yellow&fontColor=red)
   
 </div>
 <!--
