@@ -1,6 +1,7 @@
 <!--header-->
+<div align="center">
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&text=Hong%20Tae%20Woong)
-
+</div>
 <!--
 **kngom/kngom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
